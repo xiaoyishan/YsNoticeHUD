@@ -2,4 +2,4 @@
 消息通知HUD
 
 
- ![image](https://github.com/xiaoyishan/StateNotice/Untitled.gif)
+ ![image](https://github.com/xiaoyishan/YsNoticeHUD/blob/master/StateNotice/Untitled.gif?raw=true)
