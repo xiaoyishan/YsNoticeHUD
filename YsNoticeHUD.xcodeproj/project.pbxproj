@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		213C8DA31EE7D7A300EA82D2 /* UIView+TouchEventBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = 213C8DA21EE7D7A300EA82D2 /* UIView+TouchEventBlock.m */; };
+		213C8DB11EE8069200EA82D2 /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = 213C8DB01EE8069200EA82D2 /* Untitled.gif */; };
 		2176B18A1EE649AE00E394A3 /* YsNoticeHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 2176B1891EE649AE00E394A3 /* YsNoticeHUD.m */; };
 		219753B21EE5328A00D6BFF5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 219753B11EE5328A00D6BFF5 /* main.m */; };
 		219753B51EE5328A00D6BFF5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 219753B41EE5328A00D6BFF5 /* AppDelegate.m */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		213C8DA11EE7D7A300EA82D2 /* UIView+TouchEventBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+TouchEventBlock.h"; sourceTree = "<group>"; };
 		213C8DA21EE7D7A300EA82D2 /* UIView+TouchEventBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+TouchEventBlock.m"; sourceTree = "<group>"; };
+		213C8DB01EE8069200EA82D2 /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 		2176B1881EE649AE00E394A3 /* YsNoticeHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YsNoticeHUD.h; sourceTree = "<group>"; };
 		2176B1891EE649AE00E394A3 /* YsNoticeHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YsNoticeHUD.m; sourceTree = "<group>"; };
 		219753AD1EE5328A00D6BFF5 /* YsNoticeHUD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YsNoticeHUD.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,6 +79,7 @@
 		219753B01EE5328A00D6BFF5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				213C8DB01EE8069200EA82D2 /* Untitled.gif */,
 				213C8DA11EE7D7A300EA82D2 /* UIView+TouchEventBlock.h */,
 				213C8DA21EE7D7A300EA82D2 /* UIView+TouchEventBlock.m */,
 				219753B31EE5328A00D6BFF5 /* AppDelegate.h */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				219753C01EE5328A00D6BFF5 /* LaunchScreen.storyboard in Resources */,
+				213C8DB11EE8069200EA82D2 /* Untitled.gif in Resources */,
 				219753BD1EE5328A00D6BFF5 /* Assets.xcassets in Resources */,
 				219753BB1EE5328A00D6BFF5 /* Main.storyboard in Resources */,
 			);
